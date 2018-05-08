@@ -246,7 +246,7 @@ h2{
  }
 
  a.face {
-    background: url(../../bilbobegins.github.io/images/tony.jpg); 
+    background: url(../../bilbobegins.github.io/images/tony.jpg) no-repeat; 
     display: block; 
     width: 3    50px; 
     height: 355px; 
@@ -258,7 +258,7 @@ h2{
    
    a.face:hover {
 
-    background: url(/../../bilbobegins.github.io/images/tony_1.jpg);   
+    background: url(/../../bilbobegins.github.io/images/tony_1.jpg) no-repeat ;   
    }
 
   
